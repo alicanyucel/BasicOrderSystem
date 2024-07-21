@@ -12,7 +12,7 @@ namespace BasicOrderSystem.Data.Migrations
         {
 
         }
-
+        // basic order 
         /// <inheritdoc />
         protected override void Down(MigrationBuilder migrationBuilder)
         {
